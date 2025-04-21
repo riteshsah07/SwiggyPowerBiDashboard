@@ -1,4 +1,11 @@
-![Screenshot 2025-04-20 165819](https://github.com/user-attachments/assets/6512d948-c459-4080-a961-8a9f759c0fc8)# SwiggyPowerBiDashboard
+# SwiggyPowerBiDashboard
+![Screenshot 2025-04-20 165819](https://github.com/user-attachments/assets/6512d948-c459-4080-a961-8a9f759c0fc8)
+![Screenshot 2025-04-20 165835](https://github.com/user-attachments/assets/bef7a514-aeb1-4b65-8706-00537387b6d9)
+![Screenshot 2025-04-20 165848](https://github.com/user-attachments/assets/054d8e37-63e0-43ed-8bb4-bb8e7cabedba)
+![Screenshot 2025-04-20 165902](https://github.com/user-attachments/assets/9ad2aeb4-7f1f-404d-9494-fa92ddb73937)
+
+
+
 🎓 Power BI Dashboard Analysis Report on Swiggy Food Delivery Platform
 1. Project Title:
 Swiggy Sales and Customer Behavior Analysis using Power BI
