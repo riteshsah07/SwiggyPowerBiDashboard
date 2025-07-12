@@ -5,7 +5,19 @@
 ![Screenshot 2025-04-20 165902](https://github.com/user-attachments/assets/9ad2aeb4-7f1f-404d-9494-fa92ddb73937)
 
 
+# Swiggy Order Dashboard - APM Case Study
 
+📌 Overview
+Led the product planning and backlog management for a Swiggy data dashboard. Used Jira to manage sprints, track tasks, and prioritize features.
+
+🧰 Tools Used
+- Jira for Agile backlog, sprint tracking
+- Microsoft Project for timeline planning
+- Power BI for dashboard execution
+
+📈 Impact
+- Improved volume prediction accuracy by 30%
+- Delivered 3 sprint features in under 4 weeks
 🎓 Power BI Dashboard Analysis Report on Swiggy Food Delivery Platform
 1. Project Title:
 Swiggy Sales and Customer Behavior Analysis using Power BI
